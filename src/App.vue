@@ -15,9 +15,9 @@ export default {
 
   data(){
       return{
-        isPlaying : false,
-        delay :null,
-        score : null,
+        isPlaying : false ,
+        delay :null ,
+        score : null ,
         resultShow : false,
       }
   },

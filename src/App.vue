@@ -11,7 +11,7 @@ import Block from './components/Block.vue'
 import Results from './components/Results.vue'
 export default {
   name: 'App',
-   components: {Block , Results},
+   components: {Block , Results },
 
   data(){
       return{
